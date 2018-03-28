@@ -1,3 +1,5 @@
+## follow the steps given here, for translating the tweets simply run the trans_tweets.py on the csv file for the tweets extracted 
+
 ## Twitter Scraper
 
 Twitter makes it hard to get all of a user's tweets (assuming they have more than 3200). This is a way to get around that using Python, Selenium, and Tweepy.
